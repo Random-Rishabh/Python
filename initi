@@ -1,0 +1,5 @@
+for j in a:
+	if j in 'abc':
+		x=1
+	else:
+		x=x*0
